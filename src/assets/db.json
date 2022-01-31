@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "FullName": "vinay",
+      "email": "veeramalla@gmail.com",
+      "password": "BHagtdsyd",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "fullName": "ewd",
+      "email": "wew@gmail.com",
+      "password": "dcascdg",
+      "role": "user",
+      "id": 2
+    }
+  ]
+}
